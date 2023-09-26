@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/princesanjaymani" target="blank"><img src="https://img.shields.io/twitter/follow/princesanjaymani?logo=twitter&style=for-the-badge" alt="princesanjaymani" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently Working **as Cloud Support Engineer**
 
 - 💬 Ask me about **Python**
 
