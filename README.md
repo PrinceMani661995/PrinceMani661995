@@ -1,7 +1,8 @@
-![MasterHead](https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif)
-<h1 align="center">Hi 👋, I'm Prince Sanjay Mani</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+<!MasterHeadalign="center">
+<h1 align="center">Hi 👋, I'm Prince Sanjay Mani</h1><img align="left" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"><img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png">
 <h3 align="center">Experienced professional with 1 year of expertise in AWS (Amazon Web Services), I am a highly skilled professional responsible for designing, implementing, and managing cloud infrastructure solutions on the Amazon Web Services (AWS) platform. With a strong background in cloud computing and infrastructure as code (IAC), I bring a wealth of expertise to ensure the optimal performance, scalability, and security of AWS environments, as an AWS Cloud Engineer, I am dedicated to leveraging AWS's powerful cloud capabilities to drive innovation, improve operational efficiency, and ensure the security and reliability of cloud-based applications and services.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemani661995&label=Profile%20views&color=0e75b6&style=flat" alt="princemani661995" /> </p>
 
