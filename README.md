@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working **as Cloud Support Engineer**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **AWS/Azure/GCP**
 
 - 📫  How to reach me **princesanjaymani@gmail.com**
 
