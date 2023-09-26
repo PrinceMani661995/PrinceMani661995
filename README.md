@@ -2,12 +2,7 @@
 <!MasterHeadalign="center">
 <h1 align="center">Hi 👋, I'm Prince Sanjay Mani</h1><img align="left" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"><img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png">
 
-
-
-
-
 <h3 align="left">Experienced professional with 1 year of expertise in AWS (Amazon Web Services)</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemani661995&label=Profile%20views&color=0e75b6&style=flat" alt="princemani661995" /> </p>
 
