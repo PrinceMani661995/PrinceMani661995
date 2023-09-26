@@ -2,7 +2,7 @@
 <!MasterHeadalign="center">
 <h1 align="left">Hi 👋, I'm Prince Sanjay Mani</h1><img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-<h3 align="left">Experienced professional with 1 year of expertise in AWS (Amazon Web Services)
+<h3 align="left">Cloud Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemani661995&label=Profile%20views&color=0e75b6&style=flat" alt="princemani661995" /> </p>
 
