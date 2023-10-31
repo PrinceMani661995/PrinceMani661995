@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <!MasterHeadalign="center">
-<h1 align="left">Hi 👋, I'm Prince Sanjay Mani</h1><img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<h1 align="left">Hi 👋 I'm Prince S Mani</h1><img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <h3 align="left">Cloud Engineer
 
