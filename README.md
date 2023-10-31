@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/princesanjaymani" target="blank"><img src="https://img.shields.io/twitter/follow/princesanjaymani?logo=twitter&style=for-the-badge" alt="princesanjaymani" /></a> </p>
 
-- 🌱 I’m currently Working **as Cloud Support Engineer**
+- 🌱 I’m currently Working **as a Devops Engineer**
 
-- 💬 Ask me about **AWS/Azure/GCP**
+- 💬 Ask me about **AWS**
 
 - 📫  How to reach me **princesanjaymani@gmail.com**
 
